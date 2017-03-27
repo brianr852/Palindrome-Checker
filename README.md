@@ -1,24 +1,24 @@
 # Palindrome-Checker
 <p>
-Tests whether a string is a palindrome, ignoring punctuation, spaces, and case.
-
-*** This program determines whether a string is a palindrome. 
-A palindrome is spelled the same from left to right as it is from right to left,
-if we ignore punctuation, spaces, and case. ***
-
-Enter a string that you want to check (or enter "stop" to stop): 
-Race car
-"Race car" is a palindrome!
-
-Enter a string that you want to check (or enter "stop" to stop): 
-A man, a plan, a canal: Panama!
-"A man, a plan, a canal: Panama!" is a palindrome!
-
-Enter a string that you want to check (or enter "stop" to stop): 
-abracadabra
-"abracadabra" is not a palindrome!
-
-Enter a string that you want to check (or enter "stop" to stop): 
-stop
-Done!
+Tests whether a string is a palindrome, ignoring punctuation, spaces, and case.</br>
+</br>
+*** This program determines whether a string is a palindrome. </br>
+A palindrome is spelled the same from left to right as it is from right to left,</br>
+if we ignore punctuation, spaces, and case. ***</br>
+</br>
+Enter a string that you want to check (or enter "stop" to stop): </br>
+Race car</br>
+"Race car" is a palindrome!</br>
+</br>
+Enter a string that you want to check (or enter "stop" to stop): </br>
+A man, a plan, a canal: Panama!</br>
+"A man, a plan, a canal: Panama!" is a palindrome!</br>
+</br>
+Enter a string that you want to check (or enter "stop" to stop): </br>
+abracadabra</br>
+"abracadabra" is not a palindrome!</br>
+</br>
+Enter a string that you want to check (or enter "stop" to stop): </br>
+stop</br>
+Done!</br>
 </p>
